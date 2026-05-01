@@ -1,9 +1,9 @@
 ### Phase 1: The 800 "Essential" 20
 These focus on edge cases, parity, and basic greedy logic. Once these feel "obvious," move on immediately.
 
-1.  **Watermelon (4A):** The classic "even parity" check.
-2.  **Way Too Long Words (71A):** Basic string manipulation.
-3.  **Team (231A):** Simple counting logic.
+1.  **Watermelon (4A):** The classic "even parity" check. [x]
+2.  **Way Too Long Words (71A):** Basic string manipulation. [x]
+3.  **Team (231A):** Simple counting logic. [x]
 4.  **Next Round (158A):** Array indexing and boundary conditions.
 5.  **Domino piling (50A):** Introduction to "Greedy" tiling/math.
 6.  **Bit++ (282A):** String parsing.
@@ -28,8 +28,8 @@ These focus on edge cases, parity, and basic greedy logic. Once these feel "obvi
 At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than just coding what you read.
 
 1.  **Even Odds (318A):** Math logic (handling large $n$ without loops).
-2.  **Football (96A):** Substring checking/consecutive counts.
-3.  **HQ9+ (133A):** Simple conditional checks.
+2.  **Football (96A):** Substring checking/consecutive counts. [x]
+3.  **HQ9+ (133A):** Simple conditional checks.[x]
 4.  **Twins (160A):** Basic Greedy + Sorting.
 5.  **Game With Sticks (451A):** Game theory basics (parity of moves).
 6.  **Kefa and First Steps (580A):** Longest Non-decreasing Subsegment (DP intro).
