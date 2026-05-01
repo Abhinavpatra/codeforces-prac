@@ -6,7 +6,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         String code = sc.nextLine();
         for(char c: code.toCharArray()){
-            if(c=='H' || c=='Q' || c=='9'|| c=='+'){
+            if(c=='H' || c=='Q' || c=='9'){
                 System.out.println("YES");
                 return;
             }
