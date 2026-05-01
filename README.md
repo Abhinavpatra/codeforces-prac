@@ -30,9 +30,9 @@ At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than 
 1.  **Even Odds (318A):** Math logic (handling large $n$ without loops).
 2.  **Football (96A):** Substring checking/consecutive counts. [x]
 3.  **HQ9+ (133A):** Simple conditional checks.[x]
-4.  **Twins (160A):** Basic Greedy + Sorting.
-5.  **Game With Sticks (451A):** Game theory basics (parity of moves).
-6.  **Kefa and First Steps (580A):** Longest Non-decreasing Subsegment (DP intro).
+4.  **Twins (160A):** Basic Greedy + Sorting. [x]
+5.  **Game With Sticks (451A):** Game theory basics (parity of moves). [x]
+6.  **Kefa and First Steps (580A):** Longest Non-decreasing Subsegment (DP intro).[x]
 7.  **Puzzles (337A):** Sliding window/Difference minimization.
 8.  **Gravity Flip (405A):** Visualizing sorting.
 9.  **Vasya and Socks (460A):** Cycle-based simulation.
