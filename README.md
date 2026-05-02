@@ -38,7 +38,7 @@ At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than 
 9.  **Vasya and Socks (460A):** Cycle-based simulation.[x]
 10. **Dubstep (208A):** String splitting/regex-style logic.[x]
 11. **Ilya and Bank Account (313A):** Max of multiple outcomes.[x]
-12. **Keyboard (474A):** Mapping/Shifting characters.
+12. **Keyboard (474A):** Mapping/Shifting characters.[x]
 13. **Business Laptops (433A):** Greedy logic with constraints.
 14. **New Year Candles (379A):** Iterative division/remainders.
 15. **Mulitplication Table (577A):** Divisor counting.
