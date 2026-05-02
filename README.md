@@ -33,9 +33,9 @@ At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than 
 4.  **Twins (160A):** Basic Greedy + Sorting. [x]
 5.  **Game With Sticks (451A):** Game theory basics (parity of moves). [x]
 6.  **Kefa and First Steps (580A):** Longest Non-decreasing Subsegment (DP intro).[x]
-7.  **Puzzles (337A):** Sliding window/Difference minimization.
-8.  **Gravity Flip (405A):** Visualizing sorting.
-9.  **Vasya and Socks (460A):** Cycle-based simulation.
+7.  **Puzzles (337A):** Sliding window/Difference minimization.[x]
+8.  **Gravity Flip (405A):** Visualizing sorting.[x]
+9.  **Vasya and Socks (460A):** Cycle-based simulation.[x]
 10. **Dubstep (208A):** String splitting/regex-style logic.
 11. **Ilya and Bank Account (313A):** Max of multiple outcomes.
 12. **Keyboard (474A):** Mapping/Shifting characters.
