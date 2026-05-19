@@ -39,17 +39,17 @@ At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than 
 10. **Dubstep (208A):** String splitting/regex-style logic.[x]
 11. **Ilya and Bank Account (313A):** Max of multiple outcomes.[x]
 12. **Keyboard (474A):** Mapping/Shifting characters.[x]
-13. **Business Laptops (433A):** Greedy logic with constraints.
-14. **New Year Candles (379A):** Iterative division/remainders.
-15. **Mulitplication Table (577A):** Divisor counting.
+13. **Business Laptops (433A):** Greedy logic with constraints.[x]
+14. **New Year Candles (379A):** Iterative division/remainders.[x]
+15. **Mulitplication Table (577A):** Divisor counting.[x]
 
 ---
 
 ### Phase 3: The 1000 "Pattern" Jump
 This is where you hit **Binary Search**, **Prime Factorization**, and **Number Theory**.
 
-*   **Theatre Square (1A):** Ceilings and math.
-*   **Lucky Division (122A):** Pre-calculation/Brute force.
+*   **Theatre Square (1A):** Ceilings and math.[x]
+*   **Lucky Division (122A):** Pre-calculation/Brute force.[]
 *   **String Task (118A):** Complex string filtering.
 *   **Chat room (58A):** Subsequence checking.
 *   **cAPS lOCK (131A):** Complex conditional string logic.
