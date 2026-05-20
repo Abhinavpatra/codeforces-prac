@@ -49,7 +49,7 @@ At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than 
 This is where you hit **Binary Search**, **Prime Factorization**, and **Number Theory**.
 
 *   **Theatre Square (1A):** Ceilings and math.[x]
-*   **Lucky Division (122A):** Pre-calculation/Brute force.[]
-*   **String Task (118A):** Complex string filtering.
-*   **Chat room (58A):** Subsequence checking.
-*   **cAPS lOCK (131A):** Complex conditional string logic.
+*   **Lucky Division (122A):** Pre-calculation/Brute force.[x]
+*   **String Task (118A):** Complex string filtering.[x]
+*   **Chat room (58A):** Subsequence checking.[x]
+*   **cAPS lOCK (131A):** Complex conditional string logic.[x]

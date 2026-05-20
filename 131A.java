@@ -28,10 +28,8 @@ public class Main {
                 }
             }
         } else {
-            // No transformation needed
             res = s;
         }
-        
         System.out.println(res);
     }
 }
