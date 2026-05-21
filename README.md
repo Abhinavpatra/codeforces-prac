@@ -53,9 +53,9 @@ This is where you hit **Binary Search**, **Prime Factorization**, and **Number T
 3. **String Task (118A):** Complex string filtering.[x]
 4. **Chat room (58A):** Subsequence checking.[x]
 5. **cAPS lOCK (131A):** Complex conditional string logic.[x]
-6. **Nearly Lucky Number (110A):** Digit filtering + condition checks.
-7. **Arrival of the General (144A):** Greedy swaps + index handling.
-8. **Drinks (200B):** Precision + averages.
+6. **Nearly Lucky Number (110A):** Digit filtering + condition checks.[x]
+7. **Arrival of the General (144A):** Greedy swaps + index handling.[x]
+8. **Drinks (200B):** Precision + averages.[]
 9. **Amusing Joke (141A):** Frequency counting.
 10. **Is your horseshoe on the other hoof? (228A):** Sets/uniqueness.
 11. **Soft Drinking (151A):** Multi-variable minimum logic.
