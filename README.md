@@ -4,9 +4,9 @@ These focus on edge cases, parity, and basic greedy logic. Once these feel "obvi
 1.  **Watermelon (4A):** The classic "even parity" check. [x]
 2.  **Way Too Long Words (71A):** Basic string manipulation. [x]
 3.  **Team (231A):** Simple counting logic. [x]
-4.  **Next Round (158A):** Array indexing and boundary conditions.
-5.  **Domino piling (50A):** Introduction to "Greedy" tiling/math.
-6.  **Bit++ (282A):** String parsing.
+4.  **Next Round (158A):** Array indexing and boundary conditions.[]
+5.  **Domino piling (50A):** Introduction to "Greedy" tiling/math.[]
+6.  **Bit++ (282A):** String parsing.[]
 7.  **Beautiful Matrix (263A):** Manhattan distance/2D arrays.
 8.  **Petya and Strings (112A):** Case-insensitive comparisons.
 9.  **Helpful Maths (339A):** Sorting logic.
@@ -27,7 +27,7 @@ These focus on edge cases, parity, and basic greedy logic. Once these feel "obvi
 ### Phase 2: The 900 "Logic" 15
 At 900, the "A" problems start requiring a tiny bit of "aha!" logic rather than just coding what you read.
 
-1.  **Even Odds (318A):** Math logic (handling large $n$ without loops).
+1.  **Even Odds (318A):** Math logic (handling large $n$ without loops).[]
 2.  **Football (96A):** Substring checking/consecutive counts. [x]
 3.  **HQ9+ (133A):** Simple conditional checks.[x]
 4.  **Twins (160A):** Basic Greedy + Sorting. [x]
@@ -55,13 +55,13 @@ This is where you hit **Binary Search**, **Prime Factorization**, and **Number T
 5. **cAPS lOCK (131A):** Complex conditional string logic.[x]
 6. **Nearly Lucky Number (110A):** Digit filtering + condition checks.[x]
 7. **Arrival of the General (144A):** Greedy swaps + index handling.[x]
-8. **Drinks (200B):** Precision + averages.[]
-9. **Amusing Joke (141A):** Frequency counting.
-10. **Is your horseshoe on the other hoof? (228A):** Sets/uniqueness.
-11. **Soft Drinking (151A):** Multi-variable minimum logic.
-12. **Free Ice Cream (686A):** Stateful simulation.
-13. **Magnets (344A):** Group counting.
-14. **Vanya and Fence (677A):** Accumulation logic.
+8. **Drinks (200B):** Precision + averages.[x]
+9. **Amusing Joke (141A):** Frequency counting.[x]
+10. **Is your horseshoe on the other hoof? (228A):** Sets/uniqueness.[]
+11. **Soft Drinking (151A):** Multi-variable minimum logic.[]
+12. **Free Ice Cream (686A):** Stateful simulation.[]
+13. **Magnets (344A):** Group counting.[]
+14. **Vanya and Fence (677A):** Accumulation logic.[]
 15. **George and Accommodation (467A):** Constraint counting.
 16. **Police Recruits (427A):** Running balance simulation.
 17. **Black Square (431A):** Character-index mapping.
