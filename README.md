@@ -62,12 +62,12 @@ This is where you hit **Binary Search**, **Prime Factorization**, and **Number T
 12. **Free Ice Cream (686A):** Stateful simulation.[]
 13. **Magnets (344A):** Group counting.[]
 14. **Vanya and Fence (677A):** Accumulation logic.[]
-15. **George and Accommodation (467A):** Constraint counting.
-16. **Police Recruits (427A):** Running balance simulation.
-17. **Black Square (431A):** Character-index mapping.
-18. **Night at the Museum (731A):** Circular greedy movement.
-19. **Sereja and Dima (381A):** Two pointers intro.
-20. **Choosing Teams (432A):** Greedy grouping.
+15. **George and Accommodation (467A):** Constraint counting.[]
+16. **Police Recruits (427A):** Running balance simulation.[]
+17. **Black Square (431A):** Character-index mapping.[]
+18. **Night at the Museum (731A):** Circular greedy movement.[]
+19. **Sereja and Dima (381A):** Two pointers intro.[]
+20. **Choosing Teams (432A):** Greedy grouping.[]
 
 ---
 
