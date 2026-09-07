@@ -1,8 +1,8 @@
 ### DP Practice — Easy → Hard
 
-1. **LC 509** — Fibonacci Number[]
-2. **LC 70** — Climbing Stairs[]
-3. **LC 746** — Min Cost Climbing Stairs[]
+1. **LC 509** — Fibonacci Number[x]
+2. **LC 70** — Climbing Stairs[x]
+3. **LC 746** — Min Cost Climbing Stairs[x]
 4. **LC 198** — House Robber[]
 5. **LC 213** — House Robber II[]
 6. **LC 740** — Delete and Earn[]
