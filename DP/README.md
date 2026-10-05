@@ -4,17 +4,17 @@
 2. **LC 70** — Climbing Stairs[x]
 3. **LC 746** — Min Cost Climbing Stairs[x]
 4. **LC 198** — House Robber[x]
-5. **LC 213** — House Robber II[]
-6. **LC 740** — Delete and Earn[]
+5. **LC 213** — House Robber II[x]
+6. **LC 740** — Delete and Earn[x]
 7. **LC 1137** — N-th Tribonacci Number[]
 8. **LC 53** — Maximum Subarray[]
-9. **LC 91** — Decode Ways
-10. **LC 139** — Word Break
-11. **LC 62** — Unique Paths
-12. **LC 63** — Unique Paths II
-13. **LC 64** — Minimum Path Sum
-14. **LC 120** — Triangle
-15. **LC 931** — Minimum Falling Path Sum
+9. **LC 91** — Decode Ways[]
+10. **LC 139** — Word Break[]
+11. **LC 62** — Unique Paths[]
+12. **LC 63** — Unique Paths II[]
+13. **LC 64** — Minimum Path Sum[]
+14. **LC 120** — Triangle[]
+15. **LC 931** — Minimum Falling Path Sum[]
 16. **LC 221** — Maximal Square
 17. **LC 416** — Partition Equal Subset Sum
 18. **LC 322** — Coin Change
