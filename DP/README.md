@@ -6,7 +6,7 @@
 4. **LC 198** — House Robber[x]
 5. **LC 213** — House Robber II[x]
 6. **LC 740** — Delete and Earn[x]
-7. **LC 1137** — N-th Tribonacci Number[]
+7. **LC 1137** — N-th Tribonacci Number[x]
 8. **LC 53** — Maximum Subarray[]
 9. **LC 91** — Decode Ways[]
 10. **LC 139** — Word Break[]
