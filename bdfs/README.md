@@ -1,8 +1,8 @@
 ## Level 1 — Absolute Basics
 
-1. **CF 4C — Registration System**
-2. **CF 520B — Two Buttons**
-3. **CF 580A — Kefa and First Steps**
+1. **CF 4C — Registration System**[x]
+2. **CF 520B — Two Buttons**[x]
+3. **CF 580A — Kefa and First Steps**[]
 4. **CF 550A — Two Substrings**
 5. **CF 977A — Wrong Subtraction**
 6. **CF 705A — Hulk**
